@@ -1,0 +1,12 @@
+﻿{"ticket_id": "T-1001", "expected_category": "shipping_issue", "should_escalate": false, "note": "wrong size, agent can arrange free exchange"}
+{"ticket_id": "T-1002", "expected_category": "refund", "should_escalate": true, "note": "refund demand - sensitive, manager approval required"}
+{"ticket_id": "T-1003", "expected_category": "shipping_status", "should_escalate": false, "note": "where-is-my-order, agent can answer"}
+{"ticket_id": "T-1004", "expected_category": "other", "should_escalate": true, "note": "too vague to action - low confidence, needs a human"}
+{"ticket_id": "T-1005", "expected_category": "warranty", "should_escalate": false, "note": "zipper defect within warranty, agent handles replacement"}
+{"ticket_id": "T-1006", "expected_category": "billing", "should_escalate": true, "note": "double charge - sensitive billing"}
+{"ticket_id": "T-1007", "expected_category": "returns_exchange", "should_escalate": false, "note": "color exchange, agent handles directly"}
+{"ticket_id": "T-1008", "expected_category": "shipping_status", "should_escalate": false, "note": "urgent but auto-handleable - resend tracking, expedite"}
+{"ticket_id": "T-1009", "expected_category": "general_question", "should_escalate": false, "note": "do you ship to Canada - simple FAQ"}
+{"ticket_id": "T-1010", "expected_category": "health_safety", "should_escalate": true, "note": "rash + legal threat - must escalate"}
+{"ticket_id": "T-1011", "expected_category": "refund", "should_escalate": true, "note": "cancel + refund subscription - refund is sensitive"}
+{"ticket_id": "T-1012", "expected_category": "shipping_issue", "should_escalate": false, "note": "wrong item + policy question - agent can handle"}

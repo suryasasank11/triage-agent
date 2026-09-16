@@ -1,0 +1,12 @@
+{"ticket_id": "T-1001", "gold_category": "shipping_issue", "pred_category": "shipping_issue", "category_correct": true, "gold_escalate": false, "pred_escalate": false, "confidence": 0.95, "outcome": "TN"}
+{"ticket_id": "T-1002", "gold_category": "refund", "pred_category": "refund", "category_correct": true, "gold_escalate": true, "pred_escalate": true, "confidence": 0.95, "outcome": "TP"}
+{"ticket_id": "T-1003", "gold_category": "shipping_status", "pred_category": "shipping_status", "category_correct": true, "gold_escalate": false, "pred_escalate": false, "confidence": 0.95, "outcome": "TN"}
+{"ticket_id": "T-1004", "gold_category": "other", "pred_category": "other", "category_correct": true, "gold_escalate": true, "pred_escalate": true, "confidence": 0.4, "outcome": "TP"}
+{"ticket_id": "T-1005", "gold_category": "warranty", "pred_category": "warranty", "category_correct": true, "gold_escalate": false, "pred_escalate": false, "confidence": 0.85, "outcome": "TN"}
+{"ticket_id": "T-1006", "gold_category": "billing", "pred_category": "billing", "category_correct": true, "gold_escalate": true, "pred_escalate": true, "confidence": 0.95, "outcome": "TP"}
+{"ticket_id": "T-1007", "gold_category": "returns_exchange", "pred_category": "returns_exchange", "category_correct": true, "gold_escalate": false, "pred_escalate": false, "confidence": 0.95, "outcome": "TN"}
+{"ticket_id": "T-1008", "gold_category": "shipping_status", "pred_category": "shipping_status", "category_correct": true, "gold_escalate": false, "pred_escalate": false, "confidence": 0.95, "outcome": "TN"}
+{"ticket_id": "T-1009", "gold_category": "general_question", "pred_category": "general_question", "category_correct": true, "gold_escalate": false, "pred_escalate": false, "confidence": 0.95, "outcome": "TN"}
+{"ticket_id": "T-1010", "gold_category": "health_safety", "pred_category": "health_safety", "category_correct": true, "gold_escalate": true, "pred_escalate": true, "confidence": 0.95, "outcome": "TP"}
+{"ticket_id": "T-1011", "gold_category": "refund", "pred_category": "refund", "category_correct": true, "gold_escalate": true, "pred_escalate": true, "confidence": 0.95, "outcome": "TP"}
+{"ticket_id": "T-1012", "gold_category": "shipping_issue", "pred_category": "returns_exchange", "category_correct": false, "gold_escalate": false, "pred_escalate": false, "confidence": 0.95, "outcome": "TN"}
